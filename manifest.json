@@ -1,0 +1,11 @@
+{
+  "app": "Kinetic Simulator",
+  "version": "0.1.0",
+  "macos": {
+    "file": "latest/macos/KineticSimulator-macOS-Universal.zip"
+  },
+  "windows": {
+    "file": "latest/windows/KineticSimulator-Windows-x64.zip"
+  }
+
+}
